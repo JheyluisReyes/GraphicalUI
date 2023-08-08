@@ -1,7 +1,7 @@
 # Graphical User Interface App
 This is a simple graphical user interface written in Python with a login system.
 
-  ![Graphical UI Screenshot](images/GUIScreenshot.png)
+  ![GUIScreenshot](https://github.com/JheyluisReyes/GraphicalUI/assets/141370176/49718d15-1197-4ebf-8b27-f78a22ccfcd9)
 
 ## Getting started
 
