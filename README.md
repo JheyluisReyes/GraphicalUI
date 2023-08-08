@@ -1,7 +1,7 @@
 # Graphical User Interface App
 This is a simple graphical user interface written in Python with a login system.
 
- ![Graphical User Interface Screenshot](images/GraphicalUIScreenshot.png)
+  ![Graphical User Interface Screenshot](images/GUIScreenshot.png)
 
 ## Getting started
 
@@ -19,4 +19,3 @@ This is a simple graphical user interface written in Python with a login system.
 
 - Open [graphicalui.py](graphicalui.py) in Visual Studio Code to run the Graphical UI app.
 
- ![Graphical User Interface Screenshot](images/GraphicalUIScreenshot0.png)
